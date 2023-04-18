@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculador</string>
+
+    <string name="titulo">Seleccione la operación</string>
+    <string name="nombreRadioBtnSumar">Sumar</string>
+    <string name="nombreRadioBtnRestar">Restar</string>
+    <string name="nombreRadioBtnMultiplicar">Multiplicar</string>
+    <string name="nombreRadioBtnDividir">Dividir</string>
+    <string name="txtResultado">--</string>
+    <string name="nombreCheckRedondear">Redondear</string>
+    <string name="nombreBtnCalcular">Calcular</string>
+</resources>
